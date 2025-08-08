@@ -24,8 +24,8 @@ I’m **Nema Kore**, a passionate **Computer Engineering student** from Pune, bu
 
 ### 📌 Featured Projects
 
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
+| Project | Description |
+|---------|-------------|
 | [**MSBTE Scholar**](https://github.com/nemakore/MSBTE-Scholar) | Online learning app for Polytechnic students with notes, syllabus, and model answers |
 | [**Digital Finance Loan Website**](https://github.com/nemakore/Digital-Finance-Loan-Website) | Fintech website offering online loan services with a modern UI |
 | [**Airline System**](https://github.com/nemakore/airline-system) | Airline ticket booking prototype for learning web fundamentals |
