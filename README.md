@@ -31,7 +31,7 @@ I’m **Nema Kore**, a passionate **Computer Engineering student** from Pune, bu
 | [**Airline System**](https://github.com/nemakore/airline-system) | Airline ticket booking prototype for learning web fundamentals |
 | [**Job Portal System**](https://github.com/nemakore/job-portal-system) | Connects job seekers with employers in a simple web portal |
 | [**IFSC Code Finder**](https://github.com/nemakore/IFSC-Code-Finder-Project) | Search and retrieve bank IFSC codes easily |
-| [**NemaDon AI**](https://github.com/nemakore/NemaDon-AI) | Personal AI assistant for automating daily tasks |
+| [**Desktop AI Voice Assistant**](https://github.com/nemakore/NemaDon-AI) | Personal AI assistant for automating daily tasks |
 
 ---
 
