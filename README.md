@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=050D0B&height=165&section=header&text=NEMA%20KORE&fontSize=52&fontColor=E5FFF5&fontAlignY=39&desc=DEVELOPER%20%2F%20DIGITAL%20BUILDER%20%2F%20AI%20EXPLORER&descSize=12&descColor=5EEAD4&descAlignY=62&animation=fadeIn" alt="Nema Kore" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=050D0B&height=165&section=header&text=NEMA%20KORE&fontSize=52&fontColor=E5FFF5&fontAlignY=39&desc=SOFTWARE%20DEVELOPER%20%2F%20AI%20INNOVATOR%20%2F%20PRODUCT%20BUILDER&descSize=12&descColor=5EEAD4&descAlignY=62&animation=fadeIn" alt="Nema Kore — Software Developer, AI Innovator, Product Builder" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2600&pause=850&color=5EEAD4&center=true&vCenter=true&width=500&height=25&lines=Turning+ideas+into+digital+products.;Building+useful+web+experiences.;Exploring+AI+and+automation.;Build.+Learn.+Improve." alt="Developer tagline" />
 
